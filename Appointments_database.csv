@@ -1,0 +1,151 @@
+AppointmentID,PatientID,DoctorID,AppointmentDate,Diagnosis,TreatmentCost,PaymentMode,AppointmentStatus
+A0001,P0073,D006,2025-11-24,Fever,905,UPI,Completed
+A0002,P0021,D005,2025-12-01,Diabetes,920,UPI,Completed
+A0003,P0069,D013,2025-07-08,Viral Infection,618,Cash,Completed
+A0004,P0026,D021,2025-05-04,Vision Problem,1709,UPI,Cancelled
+A0005,P0066,D010,2025-05-04,Tonsillitis,1556,Insurance,Completed
+A0006,P0025,D025,2025-06-11,Arthritis,2371,Insurance,Scheduled
+A0007,P0097,D014,2025-11-20,Cold and Cough,835,Card,Completed
+A0008,P0068,D018,2025-02-18,Menstrual Disorder,1338,Card,Completed
+A0009,P0062,D025,2025-11-02,Joint Pain,2067,UPI,Completed
+A0010,P0033,D017,2025-11-06,Urinary Infection,1278,Cash,Completed
+A0011,P0009,D019,2025-10-03,Gastritis,1616,Cash,Scheduled
+A0012,P0071,D025,2025-11-23,Back Pain,2236,Insurance,Cancelled
+A0013,P0109,D022,2025-07-23,Diabetes,1191,Card,Cancelled
+A0014,P0002,D007,2025-07-12,Acidity,1797,Card,Completed
+A0015,P0081,D024,2025-07-23,Headache,2661,UPI,Scheduled
+A0016,P0030,D024,2025-12-10,Headache,1422,UPI,Completed
+A0017,P0068,D011,2025-09-20,Migraine,2176,UPI,Completed
+A0018,P0024,D008,2025-06-21,Menstrual Disorder,1211,Card,Completed
+A0019,P0075,D025,2025-06-11,Joint Pain,1553,Cash,Completed
+A0020,P0109,D002,2025-09-04,Neuropathy,2678,Card,Completed
+A0021,P0049,D013,2025-08-26,Fever,809,Card,Completed
+A0022,P0076,D006,2025-11-26,Childhood Infection,989,Insurance,Completed
+A0023,P0103,D013,2025-06-25,Fever,892,Card,Scheduled
+A0024,P0013,D006,2025-06-22,Fever,716,Cash,Cancelled
+A0025,P0044,D021,2025-07-25,Dry Eye,1362,Insurance,Completed
+A0026,P0104,D003,2025-01-28,Joint Pain,2023,UPI,Completed
+A0027,P0067,D012,2025-02-15,Vision Problem,1310,Cash,Cancelled
+A0028,P0053,D013,2025-08-20,Diabetes,1171,UPI,Scheduled
+A0029,P0053,D002,2025-11-26,Migraine,1798,UPI,Completed
+A0030,P0034,D016,2025-10-21,Eczema,1256,Insurance,Completed
+A0031,P0095,D025,2025-07-14,Arthritis,2090,Card,Completed
+A0032,P0108,D012,2025-05-26,Vision Problem,1607,Insurance,Completed
+A0033,P0012,D021,2025-02-05,Dry Eye,1080,Cash,Cancelled
+A0034,P0061,D021,2025-08-05,Vision Problem,1127,Insurance,Completed
+A0035,P0034,D017,2025-03-13,Kidney Stone,1254,Cash,Completed
+A0036,P0081,D012,2025-09-29,Dry Eye,1214,Insurance,Cancelled
+A0037,P0067,D004,2025-02-14,Eczema,997,Insurance,Cancelled
+A0038,P0054,D007,2025-04-27,Acidity,1664,Card,Completed
+A0039,P0084,D006,2025-04-14,Fever,1347,UPI,Scheduled
+A0040,P0077,D013,2025-10-18,Fever,702,Insurance,Completed
+A0041,P0106,D003,2025-05-18,Back Pain,2393,Card,Cancelled
+A0042,P0055,D013,2025-02-01,Diabetes,853,Insurance,Completed
+A0043,P0003,D001,2025-03-07,Hypertension,2604,Insurance,Scheduled
+A0044,P0050,D019,2025-12-28,Acidity,1845,Cash,Scheduled
+A0045,P0105,D009,2025-12-18,Hypertension,2787,UPI,Completed
+A0046,P0024,D010,2025-01-22,Sinusitis,1436,Card,Scheduled
+A0047,P0106,D002,2025-09-19,Migraine,1840,Insurance,Scheduled
+A0048,P0029,D017,2025-02-12,UTI,1151,Insurance,Completed
+A0049,P0045,D017,2025-08-31,UTI,1879,UPI,Completed
+A0050,P0082,D016,2025-05-05,Eczema,1396,UPI,Completed
+A0051,P0021,D001,2025-12-29,High Cholesterol,2476,Insurance,Scheduled
+A0052,P0001,D006,2025-01-08,Cold and Cough,1143,UPI,Completed
+A0053,P0024,D005,2025-01-21,Fever,766,Card,Cancelled
+A0054,P0082,D021,2025-04-14,Eye Infection,1650,UPI,Cancelled
+A0055,P0007,D011,2025-03-08,Neuropathy,1595,UPI,Completed
+A0056,P0086,D014,2025-06-02,Cold and Cough,886,Insurance,Completed
+A0057,P0105,D007,2025-06-24,IBS,1575,Cash,Completed
+A0058,P0068,D008,2025-11-22,Menstrual Disorder,1529,Insurance,Completed
+A0059,P0077,D021,2025-06-23,Eye Infection,1122,Cash,Scheduled
+A0060,P0074,D002,2025-08-24,Migraine,1375,Insurance,Cancelled
+A0061,P0109,D015,2025-03-21,Joint Pain,2275,Insurance,Cancelled
+A0062,P0083,D022,2025-03-17,Viral Infection,733,Cash,Completed
+A0063,P0016,D016,2025-08-07,Skin Allergy,1731,UPI,Cancelled
+A0064,P0037,D004,2025-05-15,Acne,736,UPI,Cancelled
+A0065,P0024,D022,2025-06-18,Diabetes,568,Insurance,Completed
+A0066,P0023,D015,2025-07-03,Joint Pain,2094,Insurance,Completed
+A0067,P0066,D021,2025-11-05,Eye Infection,991,Insurance,Scheduled
+A0068,P0049,D003,2025-02-09,Arthritis,1551,Card,Cancelled
+A0069,P0073,D025,2025-10-10,Arthritis,1798,Insurance,Completed
+A0070,P0026,D003,2025-06-08,Joint Pain,1974,Card,Scheduled
+A0071,P0102,D002,2025-07-11,Headache,1963,UPI,Scheduled
+A0072,P0003,D021,2025-12-03,Eye Infection,977,Insurance,Completed
+A0073,P0015,D015,2025-12-17,Joint Pain,1544,Cash,Completed
+A0074,P0031,D007,2025-02-06,IBS,2081,Insurance,Completed
+A0075,P0027,D020,2025-08-15,Sinusitis,779,Cash,Cancelled
+A0076,P0079,D014,2025-03-10,Cold and Cough,635,Insurance,Scheduled
+A0077,P0018,D007,2025-01-30,IBS,1204,UPI,Completed
+A0078,P0026,D025,2025-11-16,Joint Pain,1835,Cash,Completed
+A0079,P0053,D006,2025-07-22,Fever,965,UPI,Scheduled
+A0080,P0058,D018,2025-06-06,Menstrual Disorder,1863,Cash,Cancelled
+A0081,P0007,D008,2025-06-06,Pregnancy Checkup,1264,Insurance,Completed
+A0082,P0083,D010,2025-10-02,Ear Infection,1435,Insurance,Scheduled
+A0083,P0077,D003,2025-06-09,Back Pain,1275,Insurance,Completed
+A0084,P0055,D025,2025-07-08,Back Pain,1396,Card,Completed
+A0085,P0056,D018,2025-12-22,Menstrual Disorder,1033,Card,Completed
+A0086,P0016,D012,2025-07-20,Eye Infection,1254,Card,Completed
+A0087,P0026,D002,2025-04-05,Migraine,1592,Insurance,Scheduled
+A0088,P0066,D015,2025-05-13,Arthritis,1444,Card,Completed
+A0089,P0102,D002,2025-02-08,Headache,2039,Cash,Completed
+A0090,P0083,D012,2025-02-06,Eye Infection,1083,UPI,Completed
+A0091,P0065,D020,2025-06-16,Sinusitis,1191,Insurance,Completed
+A0092,P0109,D003,2025-04-03,Arthritis,1829,Card,Cancelled
+A0093,P0054,D020,2025-12-01,Ear Infection,723,UPI,Completed
+A0094,P0079,D013,2025-10-04,Diabetes,893,Card,Completed
+A0095,P0103,D003,2025-08-19,Arthritis,2110,Insurance,Completed
+A0096,P0109,D019,2025-11-14,Gastritis,1816,UPI,Completed
+A0097,P0087,D007,2025-02-03,Gastritis,1403,Cash,Scheduled
+A0098,P0006,D011,2025-02-20,Neuropathy,2253,UPI,Scheduled
+A0099,P0079,D017,2025-03-05,Kidney Stone,2140,UPI,Scheduled
+A0100,P0001,D015,2025-11-14,Joint Pain,1929,Insurance,Completed
+A0101,P0004,D014,2025-09-21,Childhood Infection,853,Insurance,Completed
+A0102,P0103,D015,2025-05-21,Back Pain,1475,Card,Completed
+A0103,P0020,D005,2025-07-10,Viral Infection,805,Card,Scheduled
+A0104,P0110,D013,2025-09-08,Fever,1018,Cash,Completed
+A0105,P0073,D014,2025-08-17,Fever,685,UPI,Completed
+A0106,P0059,D012,2025-09-14,Dry Eye,1034,Insurance,Completed
+A0107,P0048,D004,2025-10-25,Acne,780,Insurance,Completed
+A0108,P0017,D017,2025-12-04,Kidney Stone,1118,UPI,Completed
+A0109,P0043,D010,2025-10-05,Tonsillitis,1315,Card,Completed
+A0110,P0036,D018,2025-12-08,Pregnancy Checkup,1651,Cash,Completed
+A0111,P0004,D024,2025-04-29,Headache,2696,Cash,Completed
+A0112,P0114,D019,2025-11-05,Gastritis,1530,Card,Cancelled
+A0113,P0065,D012,2025-06-10,Dry Eye,846,Insurance,Completed
+A0114,P0041,D010,2025-03-09,Sinusitis,992,UPI,Completed
+A0115,P0127,D004,2025-08-07,Acne,782,UPI,Completed
+A0116,P0082,D020,2025-06-21,Tonsillitis,1034,Cash,Cancelled
+A0117,P0059,D009,2025-10-08,Hypertension,2920,Cash,Completed
+A0118,P0103,D024,2025-08-03,Neuropathy,2765,Card,Completed
+A0119,P0105,D017,2025-01-28,Kidney Stone,1595,UPI,Completed
+A0120,P0025,D019,2025-08-11,Gastritis,2358,Cash,Completed
+A0121,P0047,D005,2025-11-19,Diabetes,562,UPI,Completed
+A0122,P0111,D019,2025-03-18,Gastritis,1272,Insurance,Cancelled
+A0123,P0043,D003,2025-10-29,Back Pain,1899,Insurance,Completed
+A0124,P0024,D016,2025-07-09,Eczema,1027,Card,Scheduled
+A0125,P0054,D016,2025-02-21,Skin Allergy,1113,Card,Completed
+A0126,P0064,D016,2025-03-30,Eczema,1225,Card,Scheduled
+A0127,P0130,D022,2025-10-06,Fever,740,Card,Scheduled
+A0128,P0108,D008,2025-07-22,Menstrual Disorder,2149,Cash,Completed
+A0129,P0083,D009,2025-10-17,Chest Pain,2515,Card,Completed
+A0130,P0008,D021,2025-01-20,Vision Problem,863,UPI,Completed
+A0131,P0075,D002,2025-04-05,Headache,2675,UPI,Completed
+A0132,P0136,D019,2025-06-01,Gastritis,1946,Cash,Completed
+A0133,P0100,D012,2025-03-14,Dry Eye,1112,UPI,Completed
+A0134,P0015,D015,2025-01-14,Arthritis,1674,Card,Scheduled
+A0135,P0098,D003,2025-01-10,Arthritis,1851,Insurance,Completed
+A0136,P0040,D018,2025-02-07,PCOS,1059,Card,Completed
+A0137,P0088,D008,2025-11-14,Pregnancy Checkup,1144,Cash,Cancelled
+A0138,P0112,D004,2025-02-11,Eczema,1457,Insurance,Cancelled
+A0139,P0097,D018,2025-10-14,Menstrual Disorder,1538,UPI,Completed
+A0140,P0070,D004,2025-09-29,Acne,831,Cash,Completed
+A0141,P0084,D009,2025-11-14,Hypertension,2054,UPI,Scheduled
+A0142,P0063,D020,2025-04-19,Ear Infection,1381,Insurance,Scheduled
+A0143,P0068,D001,2025-02-09,Chest Pain,1749,Cash,Completed
+A0144,P0114,D016,2025-08-07,Skin Allergy,1743,Card,Scheduled
+A0145,P0137,D023,2025-02-24,Chest Pain,2315,Card,Completed
+A0146,P0072,D019,2025-08-21,IBS,2203,UPI,Scheduled
+A0147,P0006,D003,2025-01-25,Joint Pain,1371,Card,Cancelled
+A0148,P0109,D007,2025-12-06,IBS,2400,Cash,Completed
+A0149,P0083,D004,2025-04-22,Acne,918,Cash,Cancelled
+A0150,P0047,D010,2025-03-11,Tonsillitis,993,Card,Cancelled
