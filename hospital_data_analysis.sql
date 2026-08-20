@@ -86,9 +86,9 @@ order by total_doctors desc;
 # ----------------- avg age of patient from each department ------------------   
 select s.Department, 
       sum(case when o.Age<=18 then 1 else 0 end) as teenagers,
-      sum(case when 18 <o.Age and o.age>=35 then 1 else 0 end) as young,
-      sum(case when 35 <o.Age and o.age>=50 then 1 else 0 end) as old_persom,
-      sum(case when 50 <o.Age and o.age>=100 then 1 else 0 end)senior_citizion,
+      sum(case when 18 <o.Age and o.age<=35 then 1 else 0 end) as young,
+      sum(case when 35 <o.Age and o.age<=50 then 1 else 0 end) as old_persom,
+      sum(case when 50 <o.Age and o.age<=100 then 1 else 0 end)senior_citizion,
       count(t.PatientID) as total_patient
 from doctors_table s
 left join appointments_table t
